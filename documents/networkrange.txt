@@ -1,0 +1,11 @@
+                                        10.10.133.0/24
+virtualnetwork-northeurope  |           10.10.133.0 - 10.10.133.255             256
+        subnet-1-northeurope            10.10.133.0/26                          59
+        subnet-2-northeurope            10.10.133.64/26                         59
+        subnet-3-northeurope            10.10.133.0/26                          59
+
+                                        10.20.33.0/24
+virtualnetwork-westeurope  |            10.10.133.0 - 10.10.133.255             256
+        subnet-1-westeurope            10.20.33.0/26                          59
+        subnet-2-westeurope            10.10.133.64/26                         59
+        subnet-3-westeurope            10.10.133.0/26                          59
